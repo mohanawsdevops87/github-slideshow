@@ -2,5 +2,6 @@
 <<<<<<< HEAD
 "this is the "feature 1"
 =======
+
 "this is the 2nd feature"
 >>>>>>> f2
